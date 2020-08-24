@@ -1,0 +1,22 @@
+.button, .button:visited {
+  color: white;
+  text-decoration: none;
+  background-color: rgb(0, 166, 255);
+  border-radius: 15px;
+  padding: 10px;
+  box-shadow: 0 9px #999;
+}
+
+.button:active {
+  background-color: #003cff;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+ul {
+  list-style-type: none;
+}
+
+h1{
+  margin-bottom: 50px;
+}
